@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahavir Kumar</h1>
 <h3 align="center">Passionate Android Developer | 3+ Years of Experience in Building Scalable Mobile Solutions | Enthusiast in Clean Architecture, Kotlin, and Jetpack Compose</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahavirkumar" alt="mahavirkumar" /></a> </p>
+ 
 
 - 🔭 I’m currently working as **Android Developer**
 
@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@mkcode0323](https://medium.com/@mkcode0323)
 
-- 💬 Ask me about **Kotlin, java, Android,Mobile Application Development, Clean Architecture**
+- 💬 Ask me about **Kotlin, java, Android,Mobile Application Development, Jetpack, Clean Architecture**
 
 - 📫 How to reach me **mkcode0323@gmail.com**
 
